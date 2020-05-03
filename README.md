@@ -1,0 +1,2 @@
+# Defender
+This would be very useful in the current pandemic situation of COVID 19. The Main recommended prevention of this infection is frequent hand washing and social distancing. So, here is handsfree basin, a hardware prototype and Corona defender , a software implementation. Visualize how &amp; where the virus has created havoc and amongst? which age grp so that we can predict and infer which population &amp; region is at highest risk currently? Also, through heat map function, we can put our Hardware prototype there.
